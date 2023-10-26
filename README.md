@@ -5,7 +5,7 @@ Para trabajos de microcontroladores
 
 ```C
 /*
- * Nombre del Archivo: main.c
+ * Nombre del Archivo: TablaDeMultiplicar.c
  * Autor:   Ortiz Garcia Nayeli
  * Correo:  l21210406@tectijuana.edu.mx
  * Fecha:   25/10/2023
